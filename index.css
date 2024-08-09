@@ -1,0 +1,22 @@
+
+.upload-container {
+    text-align: center;
+    /* background-color: aqua; */
+    margin-top: 50px;
+}
+
+#uploadButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top:10px;
+}
+
+#imagePreview {
+    margin-top: 20px;
+}
+
+#imagePreview img {
+    max-width:150px;
+    height: 150px;
+}
